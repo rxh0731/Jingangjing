@@ -1,0 +1,23 @@
+# 环境配置
+.env
+
+# 字库图片
+金刚经字库/
+*.png
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.log
+*.bak
